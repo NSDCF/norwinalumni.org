@@ -1,0 +1,37 @@
+# main menu
+[[main]]
+  name        = "Who We Are"
+  weight      = 10
+  identifier  = "who-we-are"
+  url         = "/who-we-are/"
+
+[[main]]
+  name        = "Distinguished Alumni"
+  weight      = 20
+  identifier  = "distinguished-alumni"
+  url         = "/distinguished-alumni/"
+
+[[main]]
+  name        = "Scholarships"
+  weight      = 25
+  identifier  = "scholarships"
+  url         = "/scholarships/"
+
+[[main]]
+  name        = "News"
+  weight      = 30
+  identifier  = "news"
+  url         = "/news/"
+
+[[main]]
+  name        = "Join Us Today"
+  weight      = 40
+  identifier  = "join"
+  url         = "/join/"
+
+[[footer]]
+  name = "NSDCF"
+  weight = 10
+  identifier = "nsdcf"
+  url = "https://nsdcf.org"
+  external = true

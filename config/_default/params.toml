@@ -1,0 +1,25 @@
+description = ""
+logo        = "images/nafa-logo.png"
+shortTitle  = "NAFA"
+title       = "Norwin Alumni & Friends Association"
+logoTitleLineOne = "Norwin Alumni"
+logoTitleLineTwo = "& Friends Association"
+
+# Default image for og:image and twitter:image if none specified in frontmatter.
+images   = ["images/card-nafa.jpg"]
+imageAlt = ""
+featuredWidth  = "1600"
+featuredHeight = "1067"
+
+ISO8601 = "2006-01-02T15:04:05-0700"
+
+[contact]
+  email         = "hello@norwinalumni.org"
+  phone         = "+1-724-861-3000"
+  fax           = ""
+  street        = "281 McMahon Drive"
+  city          = "North Huntingdon"
+  state         = "PA"
+  postal        = "15642"
+  country       = "USA"
+  newsletterHeading = "Subscribe to our newsletter"

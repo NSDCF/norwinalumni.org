@@ -1,0 +1,14 @@
+{
+  "name": "norwin-alumni",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NSDCF",
+  "dependencies": {
+    "@hotwired/turbo": "^7.1.0"
+  }
+}

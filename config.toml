@@ -1,0 +1,74 @@
+baseURL         = "https://norwinalumni.org"
+buildDrafts     = false
+buildFuture     = false
+canonifyURLs    = false
+
+relativeURLs        = false
+enableRobotsTXT     = true
+googleAnalytics     = ""
+languageCode        = "en-us"
+metaDataFormat      = "toml"
+summaryLength       = 50
+pluralizeListTitles = false
+
+[build]
+  noJSConfigInAssets = true
+
+[module]
+  [[module.imports]]
+      path = 'github.com/nsdcf/nsdcf-theme'
+
+[mediaTypes]
+  [mediaTypes."text/netlify"]
+    delimiter = ""
+
+[outputs]
+  home         = ["HTML", "RSS", "REDIR"]
+  section      = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
+  term         = ["HTML", "RSS"]
+  page         = ["HTML"]
+
+[outputFormats]
+  [outputFormats.REDIR]
+    mediatype = "text/netlify"
+    baseName = "_redirects"
+    isPlainText = true
+    notAlternative = true
+
+  [outputFormats.HEADERS]
+    mediatype = "text/netlify"
+    baseName = "_headers"
+    isPlainText = true
+    notAlternative = true
+
+[permalinks]
+  news = "/news/:year/:month/:slug"
+
+[sitemap]
+  ChangeFreq  = ""
+  Filename    = "sitemap.xml"
+  Priority    = "-1"
+
+[taxonomies]
+  author   = "news/authors"
+  category = "news/categories"
+  series   = "news/series"
+
+[blackfriday]
+  # https://github.com/gohugoio/hugo/issues/2424
+  hrefTargetBlank = false
+  angledQuotes    = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[imaging]
+  anchor         = "smart"
+  quality        = 70
+  resampleFilter = "CatmullRom"
+
+  [imaging.exif]
+    disableLatLong = true
