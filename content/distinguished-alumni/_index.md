@@ -1,8 +1,8 @@
 +++
 title     = "Celebrating Norwin's Most Distinguished Alumni"
 linkTitle = "Distinguished Alumni"
-date  = "2022-02-08 12:00:00 +0000"
-
+date = "2022-02-08 12:00:00 +0000"
+type = "event"
 [[resources]]
   src  = "distinguished-alumni-hero.jpg"
   name = "cover"
@@ -11,5 +11,3 @@ date  = "2022-02-08 12:00:00 +0000"
 {{% p class="intro_p" %}}
 Every Norwin graduate goes on to write their own story. Each year, the Norwin Alumni & Friends Association works to bring together members of the Norwin community to celebrate those belonging to some of our most distinguished alumni.
 {{% /p %}}
-
-(more)
