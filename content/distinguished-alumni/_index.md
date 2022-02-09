@@ -4,7 +4,7 @@ linkTitle = "Distinguished Alumni"
 date  = "2022-02-08 12:00:00 +0000"
 
 [[resources]]
-  src  = "alumni-hero.jpg"
+  src  = "distinguished-alumni-hero.jpg"
   name = "cover"
 +++
 

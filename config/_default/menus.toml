@@ -1,9 +1,9 @@
 # main menu
 [[main]]
-  name        = "Who We Are"
+  name        = "About Us"
   weight      = 10
-  identifier  = "who-we-are"
-  url         = "/who-we-are/"
+  identifier  = "about"
+  url         = "/about/"
 
 [[main]]
   name        = "Distinguished Alumni"
@@ -34,4 +34,13 @@
   weight = 10
   identifier = "nsdcf"
   url = "https://nsdcf.org"
-  external = true
+  [footer.params]
+    external = true
+
+[[footer]]
+  name = "Norwin School District"
+  weight = 30
+  identifier = "norwin"
+  url = "https://norwinsd.org"
+  [footer.params]
+    external = true

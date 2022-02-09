@@ -1,10 +1,11 @@
 +++
-title     = "Who We Are"
-linkTitle = "Who We Are"
+title     = "About Us"
+linkTitle = "About Us"
 date  = "2022-02-08 12:00:00 +0000"
+type  = "about"
 
 [[resources]]
-  src  = "who-hero.jpg"
+  src  = "about-hero.jpg"
   name = "cover"
 +++
 
