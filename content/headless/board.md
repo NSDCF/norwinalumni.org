@@ -1,5 +1,5 @@
 +++
-title = "Board of Directors"
+title = "Officers"
 headless = true
 noSummary = true
 +++

@@ -2,7 +2,7 @@
 type          = "event"
 title         = "Fifth Annual Knight of Distinguished Alumni"
 titleAlt      = "Join Us in Celebrating a Knight of Distinguished Alumni"
-shortTitle    = "Knight of Distinguished Alumni"
+shortTitle    = "A Knight of Distinguished Alumni"
 date          = 2020-02-13T12:00:00-05:00
 organizer     = "Norwin Alumni & Friends Association"
 # Remember to adjust eventDate to reflect the appropriate date and time.
@@ -28,17 +28,22 @@ summary = "Join us on May 26, 2022 for the annual Knight of Distinguished Alumni
 description   = ""
 "news/categories" = ["Alumni","Events"]
 
-[[sections.schedule]]
-  [[sections.schedule]]
-    title = "Cocktails and Cash Bar"
-    time  = 2022-05-26T17:30:00-05:00
-  [[sections.schedule]]
-    title = "Buffet Dinner"
-    time  = 2022-05-26T18:30:00-05:00
-  [[sections.schedule]]
-    title   = "Award Presentations"
-    content = "After Dinner"
+[venue]
+  name   = "Strategos Banquet Centre"
+  street = "131 Colonial Manor Road"
+  city   = "North Huntingdon"
+  state  = "PA"
+  postal = "15642"
 
+[[sections.schedule]]
+  title = "Cocktails and Cash Bar"
+  time  = 2022-05-26T17:30:00-05:00
+[[sections.schedule]]
+  title = "Buffet Dinner"
+  time  = 2022-05-26T18:30:00-05:00
+[[sections.schedule]]
+  title   = "Award Presentations"
+  content = "After Dinner"
 
 [tickets]
   price        = "42.00"
