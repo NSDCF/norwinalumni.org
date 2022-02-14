@@ -1,9 +1,10 @@
 +++
+attending  = true
 honorific  = "Mr."
 title      = "Ronald Peduzzi"
 posthumous = true
-award      = "Friend of Norwin"
-category   = "Public Service"
-weight     = 50
+award      = "Friend"
+class      = 2022
 headless   = true
+weight     = 50
 +++

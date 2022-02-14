@@ -1,8 +1,11 @@
 +++
-honorific = "Ms."
-title     = "Halle Copeman née Siniawski"
-year      = "2001"
-award     = "Alumni"
-category  = "Public Service"
-headless  = true
+attending     = true
+honorific     = "Mr."
+title         = "Daniel Davis"
+year          = "1972"
+previousClass = "2018"
+award         = "Alumni"
+category      = "Medicine"
+class         = 2021
+headless      = true
 +++

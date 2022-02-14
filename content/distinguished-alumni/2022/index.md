@@ -19,17 +19,27 @@ eventDate     = "2022-05-26T17:30:00-05:00"
 eventDoorTime = "2022-05-26T17:30:00-05:00"
 eventEndDate  = "2022-05-26T21:00:00-05:00"
 
-ticketsAvailable = true
+ticketsAvailable = false
 # Remember to change ticket deadline date to appropriate deadline for RSVPs. After this date, the ticket order form will be disabled the next time the site is built.
-ticketsDeadlineDate = 2019-04-01T18:46:01-05:00
+ticketsDeadlineDate = 2022-04-01T18:46:01-05:00
 
+class = 2022
 summaryHeading = ""
 summary = "Join us on May 26, 2022 for the annual Knight of Distinguished Alumni as we honor our latest class of distinguished alumni."
 description   = ""
 "news/categories" = ["Alumni","Events"]
 
+hasRecipients     = true
+recipientsHeading = "The 2022 Class of Distinguished Alumni"
+recipientsIntro   = "We are proud to announce that the following individuals have been selected for the 2022 Class of Distinguished Alumni."
+
+reservationsHeading = "Make your reservations today."
+reservationsIntro = "Make your reservations for A Knight of Distinction while seats are still available. Group tables of 8 are also available."
+reservationsMisc = "Prefer to pay by check? Print our <a href='docs/knight-of-distinguished-alumni-reservation-form.pdf' class='link--pdf' target='_blank'>reservations form</a> and return by mail."
+reservationsSmallPrint = "After checkout, guests will be redirected to a form to submit your party's names and meal selections. Please note that we are unable to issue refunds after May 10."
+
 [venue]
-  name   = "Strategos Banquet Centre"
+  name   = "Stratigos Banquet Centre"
   street = "131 Colonial Manor Road"
   city   = "North Huntingdon"
   state  = "PA"
@@ -59,7 +69,7 @@ description   = ""
 +++
 
 {{% p class="intro_p" %}}
-You are cordially invited to join the Norwin School District Community Foundation on Thursday, May 26, 2022 for a celebration of Norwin's past, present, and future as we honor the achievements of some of our most distinguished alumni and graduating students.
+You are cordially invited to join the Norwin Alumni & Friends Association on Thursday, May 26, 2022 for a celebration of Norwin's past, present, and future as we honor the achievements of some of our most distinguished alumni and graduating students.
 {{% /p %}}
 
 Reservations and additional information will be available on this page in the coming months.

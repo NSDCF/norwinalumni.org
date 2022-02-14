@@ -1,10 +1,10 @@
 +++
 attending = true
 honorific = "Mr."
-title     = "Lynn E. McCutcheon"
+title     = "Richard 'Dick' Zentner"
 year      = "1962"
 award     = "Alumni"
-category  = "Science"
-class     = 2022
+category  = ""
+class     = 2020
 headless  = true
 +++
