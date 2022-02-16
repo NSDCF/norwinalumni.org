@@ -5,7 +5,7 @@ positions = [
   "Vice President",
   "Executive Committee"
 ]
-weight = 20
+weight = 10
 
 [[resources]]
   src  = "maryann-busdosh.jpg"

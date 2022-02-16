@@ -5,4 +5,5 @@ positions = [
   "Member at Large",
   "Executive Committee"
 ]
+weight = 60
 +++

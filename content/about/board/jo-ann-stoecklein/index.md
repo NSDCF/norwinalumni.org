@@ -8,6 +8,7 @@ positions = [
   "Distinguished Alumni Banquet Co-Chair",
   "Social Committee"
 ]
+weight = 20
 
 [[resources]]
   src  = "jo-ann-stoecklein.jpg"

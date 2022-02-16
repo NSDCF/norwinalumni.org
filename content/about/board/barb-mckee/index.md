@@ -5,7 +5,7 @@ positions = [
   "Executive Committee",
   "NSDCF Liason"
 ]
-weight = 15
+weight = 35
 
 [[resources]]
   src  = "barb-mckee.jpg"

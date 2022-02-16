@@ -7,6 +7,7 @@ positions = [
   "Distinguished Alumni Banquet Co-Chair",
   "Past President"
 ]
+weight = 20
 
 [[resources]]
   src  = "debbie-kunkle.jpg"
