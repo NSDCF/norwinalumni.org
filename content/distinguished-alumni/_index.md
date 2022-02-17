@@ -3,6 +3,9 @@ title     = "Celebrating Norwin's Most Distinguished Alumni"
 linkTitle = "Distinguished Alumni"
 date = "2022-02-08 12:00:00 +0000"
 type = "event"
+pastEventsHeading="Look Back at our Previous Classes of Distinguished Alumni"
+pastEventsIntro=""
+
 [[resources]]
   src  = "distinguished-alumni-hero.jpg"
   name = "cover"

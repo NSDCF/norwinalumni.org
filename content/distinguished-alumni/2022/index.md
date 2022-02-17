@@ -29,14 +29,14 @@ summary = "Join us on May 26, 2022 for the annual Knight of Distinguished Alumni
 description   = ""
 "news/categories" = ["Alumni","Events"]
 
-hasRecipients     = true
+hasRecipients      = true
 recipientsHeading = "The 2022 Class of Distinguished Alumni"
 recipientsIntro   = "We are proud to announce that the following individuals have been selected for the 2022 Class of Distinguished Alumni."
 
 reservationsHeading = "Make your reservations today."
 reservationsIntro = "Make your reservations for A Knight of Distinction while seats are still available. Reservations are *$43.50* per guest, with group tables of 8-10 also available."
 reservationsMisc = "Prefer to pay by check? Print our <a href='knight-of-distinguished-alumni-reservation-form.pdf' class='link--pdf' target='_blank'>reservations form</a> and return by mail."
-reservationsSmallPrint = "After checkout, guests will be redirected to a form to submit your party's names and meal selections. Please note that we are unable to issue refunds after May 10."
+reservationsSmallPrint = "The deadline for reservations is May 12. Please note that we are unable to issue refunds after May 12."
 dinnerSelections = "Choices include *Three Cheese Stuffed Chicken Breast*, *Sliced Sirloin of Beef Au Ju*, or special dietary meals upon request."
 
 [venue]
