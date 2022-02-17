@@ -19,7 +19,7 @@ eventDate     = "2022-05-26T17:30:00-05:00"
 eventDoorTime = "2022-05-26T17:30:00-05:00"
 eventEndDate  = "2022-05-26T21:00:00-05:00"
 
-ticketsAvailable = false
+ticketsAvailable = true
 # Remember to change ticket deadline date to appropriate deadline for RSVPs. After this date, the ticket order form will be disabled the next time the site is built.
 ticketsDeadlineDate = 2022-04-01T18:46:01-05:00
 
