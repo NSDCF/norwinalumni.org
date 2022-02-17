@@ -34,9 +34,10 @@ recipientsHeading = "The 2022 Class of Distinguished Alumni"
 recipientsIntro   = "We are proud to announce that the following individuals have been selected for the 2022 Class of Distinguished Alumni."
 
 reservationsHeading = "Make your reservations today."
-reservationsIntro = "Make your reservations for A Knight of Distinction while seats are still available. Group tables of 8 are also available."
-reservationsMisc = "Prefer to pay by check? Print our <a href='docs/knight-of-distinguished-alumni-reservation-form.pdf' class='link--pdf' target='_blank'>reservations form</a> and return by mail."
+reservationsIntro = "Make your reservations for A Knight of Distinction while seats are still available. Reservations are *$43.50* per guest, with group tables of 8-10 also available."
+reservationsMisc = "Prefer to pay by check? Print our <a href='knight-of-distinguished-alumni-reservation-form.pdf' class='link--pdf' target='_blank'>reservations form</a> and return by mail."
 reservationsSmallPrint = "After checkout, guests will be redirected to a form to submit your party's names and meal selections. Please note that we are unable to issue refunds after May 10."
+dinnerSelections = "Choices include *Three Cheese Stuffed Chicken Breast*, *Sliced Sirloin of Beef Au Ju*, or special dietary meals upon request."
 
 [venue]
   name   = "Stratigos Banquet Centre"
@@ -56,7 +57,7 @@ reservationsSmallPrint = "After checkout, guests will be redirected to a form to
   content = "After Dinner"
 
 [tickets]
-  price        = "42.00"
+  price        = "43.50"
   serviceFee   = "1.50"
 
 [[sections.questions]]
@@ -72,4 +73,4 @@ reservationsSmallPrint = "After checkout, guests will be redirected to a form to
 You are cordially invited to join the Norwin Alumni & Friends Association on Thursday, May 26, 2022 for a celebration of Norwin's past, present, and future as we honor the achievements of some of our most distinguished alumni and graduating students.
 {{% /p %}}
 
-Reservations and additional information will be available on this page in the coming months.
+This event is sponsored by [Duncan Financial Group](https://duncangrp.com).
