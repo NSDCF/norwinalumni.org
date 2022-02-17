@@ -1,7 +1,7 @@
 +++
 attending  = true
 honorific  = "Mr."
-title      = "Tom Shrump"
+title      = "Thomas P. Shrump"
 year       = "1984"
 posthumous = true
 award      = "Alumni"

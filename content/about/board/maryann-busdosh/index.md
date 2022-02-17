@@ -3,7 +3,8 @@ honorific = "Ms."
 title = "Mary Ann Busdosh"
 positions = [
   "Vice President",
-  "Executive Committee"
+  "Executive Committee",
+  "Membership Committe Chair"
 ]
 weight = 10
 

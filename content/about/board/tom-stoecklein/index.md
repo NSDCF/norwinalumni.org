@@ -2,7 +2,8 @@
 honorific = "Mr."
 title = "Tom Stoecklein"
 positions = [
-  "Communications Chair"
+  "Communications Committee Chair",
+  "Scholarship Commitee Chair"
 ]
 weight = 50
 +++
