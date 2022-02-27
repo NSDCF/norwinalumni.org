@@ -15,8 +15,10 @@ pluralizeListTitles = false
   noJSConfigInAssets = true
 
 [module]
-  [[module.imports]]
-      path = 'github.com/nsdcf/nsdcf-theme'
+replacements = 'github.com/nsdcf/nsdcf-theme -> /Users/tom/code/nsdcf-theme/'
+
+[[module.imports]]
+    path = 'github.com/nsdcf/nsdcf-theme'
 
 [mediaTypes]
   [mediaTypes."text/netlify"]
