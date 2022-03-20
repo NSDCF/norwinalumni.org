@@ -1,7 +1,7 @@
 +++
 attending = true
 honorific = "Ms."
-title     = "Lois Woleslage née Lauffer"
+title     = "Lois Woleslagle née Lauffer"
 year      = "1949"
 award     = "Alumni"
 category  = "Community Service"

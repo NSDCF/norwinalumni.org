@@ -16,6 +16,7 @@ description = "On May 24, 2018, members of the Norwin community and past graduat
 "news/categories" = ["Alumni","Events"]
 
 hasRecipients = true
+hasRecipientBios  = true
 recipientsHeading = "The 2018 Class of Distinguished Alumni"
 recipientsIntro   = "We are proud to announce that the following individuals have been selected for the 2018 Class of Distinguished Alumni."
 

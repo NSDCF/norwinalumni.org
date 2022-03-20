@@ -13,9 +13,9 @@ weight    = 55
   name = "headshot"
 +++
 
-Richard (Dick) Zentner graduated from Norwin High School in 1962.  After attending Ricks College in Rexburg, Idaho for two years, he served in the US Army for two years, of which sixteen months were in Germany.
+Richard (Dick) Zentner graduated from Norwin High School in 1962. After attending Ricks College in Rexburg, Idaho for two years, he served in the US Army for two years, of which sixteen months were in Germany.
 
-Dick worked for Duquesne Light Company in Pittsburgh for thirty-nine years retiring from the position of Operating Supervisor.  He continued working on Duquesne Light property for eight years as an employee of Pike Electric, an Engineering and Construction firm rebuilding the infrastructure as Outage Coordinator.
+Dick worked for Duquesne Light Company in Pittsburgh for thirty-nine years retiring from the position of Operating Supervisor.  He continued working on Duquesne Light property for eight years as an employee of Pike Electric, an Engineering and Construction firm rebuilding the infrastructure as Outage Coordinator.
 
 Since 1986, Dick has been heavily involved in the Norwin Band and Norwin Band Aides serving in numerous positions including three terms as president of the Band Aides.
 He is currently responsible for the transportation, housing and meals for the High School Band and the Colorguard on their numerous trips.

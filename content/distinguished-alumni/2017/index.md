@@ -15,7 +15,8 @@ summaryHeading = ""
 description = "On May 25, 2017, members of the Norwin community and past graduates came together in celebration of the accomplishments of Norwin's 2019 Class of Distinguished Alumni."
 "news/categories" = ["Alumni","Events"]
 
-hasRecipients = true
+hasRecipients     = true
+hasRecipientBios  = true
 recipientsHeading = "The 2017 Class of Distinguished Alumni"
 recipientsIntro   = "We are proud to announce that the following individuals have been selected for the 2017 Class of Distinguished Alumni."
 
