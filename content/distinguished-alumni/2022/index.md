@@ -36,7 +36,7 @@ recipientsIntro   = "We are proud to announce that the following individuals hav
 reservationsHeading = "Make your reservations today."
 reservationsIntro = "Make your reservations for A Knight of Distinction while seats are still available. Reservations are *$43.50* per guest, with group tables of 8-10 also available."
 reservationsMisc = "Prefer to pay by check? Print our <a href='knight-of-distinguished-alumni-reservation-form.pdf' class='link--pdf' target='_blank'>reservations form</a> and return by mail."
-reservationsSmallPrint = "The deadline for reservations is May 12. Please note that we are unable to issue refunds after May 12."
+reservationsSmallPrint = "The deadline for reservations is May 10. Please note that we are unable to issue refunds after the deadline."
 dinnerSelections = "Choices include *Three Cheese Stuffed Chicken Breast*, *Sliced Sirloin of Beef Au Ju*, or special dietary meals upon request."
 
 [venue]
