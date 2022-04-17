@@ -2,7 +2,7 @@
 honorific = "Ms."
 title = "Barb Popovic"
 positions = [
-  "Retiree Liason"
+  "Retiree Liaison"
 ]
 weight = 45
 +++

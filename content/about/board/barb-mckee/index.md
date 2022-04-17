@@ -3,7 +3,7 @@ honorific = "Ms."
 title = "Barb McKee"
 positions = [
   "Executive Committee",
-  "NSDCF Liason"
+  "NSDCF Liaison"
 ]
 weight = 35
 

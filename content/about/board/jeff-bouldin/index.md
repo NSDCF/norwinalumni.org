@@ -2,7 +2,7 @@
 honorific = "Mr."
 title = "Jeff Bouldin"
 positions = [
-  "Community Liason"
+  "Community Liaison"
 ]
 weight = 25
 
