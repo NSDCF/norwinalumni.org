@@ -10,15 +10,17 @@ languageCode        = "en-us"
 metaDataFormat      = "toml"
 summaryLength       = 50
 pluralizeListTitles = false
+paginate = 9
 
 [build]
   noJSConfigInAssets = true
 
 [module]
-replacements = 'github.com/nsdcf/nsdcf-theme -> /Users/tom/code/nsdcf-theme/'
-
 [[module.imports]]
     path = 'github.com/nsdcf/nsdcf-theme'
+
+[[module.imports]]
+    path = 'github.com/nsdcf/nsdcf-shared-content'
 
 [mediaTypes]
   [mediaTypes."text/netlify"]
