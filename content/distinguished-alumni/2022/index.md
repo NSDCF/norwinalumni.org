@@ -6,7 +6,7 @@ shortTitle    = "A Knight of Distinguished Alumni"
 date          = 2020-02-13T12:00:00-05:00
 organizer     = "Norwin Alumni & Friends Association"
 # Remember to adjust eventDate to reflect the appropriate date and time.
-eventComplete = false
+eventComplete = true
 # EventStatus Type - https://schema.org/EventStatusType
 # Valid states:
 # => EventCancelled
@@ -19,7 +19,7 @@ eventDate     = "2022-05-26T17:30:00-05:00"
 eventDoorTime = "2022-05-26T17:30:00-05:00"
 eventEndDate  = "2022-05-26T21:00:00-05:00"
 
-ticketsAvailable = true
+ticketsAvailable = false
 # Remember to change ticket deadline date to appropriate deadline for RSVPs. After this date, the ticket order form will be disabled the next time the site is built.
 ticketsDeadlineDate = 2022-04-01T18:46:01-05:00
 
@@ -70,7 +70,7 @@ dinnerSelections = "Choices include *Three Cheese Stuffed Chicken Breast*, *Slic
 +++
 
 {{% p class="intro_p" %}}
-You are cordially invited to join the Norwin Alumni & Friends Association on Thursday, May 26, 2022 for a celebration of Norwin's past, present, and future as we honor the achievements of some of our most distinguished alumni and graduating students.
+On May 26, 2022, members of the Norwin community and past graduates came together in celebration of the accomplishments of eleven Distinguished Norwin Alumni, one Distinguished Friend of Norwin, and our graduating NAFA Scholarship recipient.
 {{% /p %}}
 
-This event is sponsored by [Duncan Financial Group](https://duncangrp.com).
+The Norwin Alumni & Friends Association, together with the Norwin School District Community Foundation would like to thank the community for their support and a wonderful evening.
