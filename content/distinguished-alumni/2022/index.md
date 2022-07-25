@@ -3,7 +3,7 @@ type          = "event"
 title         = "Fifth Annual Knight of Distinguished Alumni"
 titleAlt      = "Join Us in Celebrating a Knight of Distinguished Alumni"
 shortTitle    = "A Knight of Distinguished Alumni"
-date          = 2020-02-13T12:00:00-05:00
+date          = 2022-02-13T12:00:00-05:00
 organizer     = "Norwin Alumni & Friends Association"
 # Remember to adjust eventDate to reflect the appropriate date and time.
 eventComplete = true
