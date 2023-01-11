@@ -18,6 +18,8 @@ hasResources = true
     icon = "pdf"
 +++
 
+*Update: Nominations are no longer being accepted for this year's class of Distinguished Alumni. If you missed our deadline, please consider submitting nominating next year.*
+
 The Norwin Alumni & Friends Association, in cooperation with the Norwin School District Community Foundation, is now accepting nominations for the 2023 Class of Distinguished Alumni.
 
 The 2023 class will feature up to twelve alumni who have had careers of distinction since their days at Norwin High School. Nominees must be graduates of Irwin High School, North Huntingdon High School or Norwin High School and have been graduated from high school for at least 10 years. In addition, the NAFA Executive Board may select one Distinguished Friend of Norwin to be honored for service to Norwin schools and community.
