@@ -77,5 +77,3 @@ reservationsSmallPrint = "The deadline for reservations is May 10. Please note t
 You are cordially invited to join the Norwin Alumni & Friends Association on Thursday, May 25, 2023 for a celebration of Norwin's past, present, and future as we honor the achievements of some of our most distinguished alumni and graduating students.{{% /p %}}
 
 This event is sponsored by [Duncan Financial Group](https://duncangrp.com).
-
-### Event Program Advertisements
