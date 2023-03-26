@@ -1,6 +1,6 @@
 +++
 attending = true
-honorific = "Mr."
+honorific = "Dr."
 title     = "Christopher D. Olson"
 academicTitle = "D.O."
 year      = "1969"
