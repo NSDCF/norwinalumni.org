@@ -6,7 +6,7 @@ shortTitle    = "A Knight of Distinguished Alumni"
 date          = 2023-03-17T12:00:00-05:00
 organizer     = "Norwin Alumni & Friends Association"
 # Remember to adjust eventDate to reflect the appropriate date and time.
-eventComplete = false
+eventComplete = true
 # EventStatus Type - https://schema.org/EventStatusType
 # Valid states:
 # => EventCancelled
@@ -19,7 +19,7 @@ eventDate     = "2023-05-25T17:30:00-05:00"
 eventDoorTime = "2023-05-25T17:30:00-05:00"
 eventEndDate  = "2023-05-25T21:00:00-05:00"
 
-ticketsAvailable = true
+ticketsAvailable = false
 # Remember to change ticket deadline date to appropriate deadline for RSVPs. After this date, the ticket order form will be disabled the next time the site is built.
 ticketsDeadlineDate = 2023-05-10T18:46:01-05:00
 
@@ -39,7 +39,7 @@ reservationsMisc = "Prefer to pay by check? Print our <a href='knight-of-disting
 reservationsSmallPrint = "The deadline for reservations is May 10. Please note that we are unable to issue refunds after the deadline."
 
 [banner]
-  active = true
+  active = false
   text = "Join us in celebrating our Sixth Annual Knight of Distinguished Alumni on May 25."
   linkText = "Make your reservation today."
 
