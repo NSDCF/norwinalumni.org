@@ -5,6 +5,7 @@ positions = [
   "Secretary",
   "Executive Committee",
   "Distinguished Alumni Banquet Co-Chair",
+  "NSDCF Liason",
   "Past President"
 ]
 weight = 20
