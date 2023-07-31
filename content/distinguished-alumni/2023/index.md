@@ -29,7 +29,9 @@ summary = "Join us on May 25, 2023 for the annual Knight of Distinguished Alumni
 description   = ""
 "news/categories" = ["Alumni","Events"]
 
-hasRecipients      = true
+hasRecipients     = true
+hasRecipientBios  = true
+
 recipientsHeading = "The 2023 Class of Distinguished Alumni"
 recipientsIntro   = "We are proud to announce that the following individuals have been selected for the 2022 Class of Distinguished Alumni."
 
@@ -69,7 +71,7 @@ reservationsSmallPrint = "The deadline for reservations is May 10. Please note t
   content = "Further questions regarding the event may be directed to <FIRST> <LAST> by [email](mailto:alumni@nsdcf.org) or by phone at <PHONE>."
 
 [[resources]]
-  src  = "2023-alumni-hero.jpg"
+  src  = "2023-koda-group-photo.jpg"
   name = "cover"
 +++
 

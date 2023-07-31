@@ -19,4 +19,5 @@ Adam’s previous work experience includes roles as: counselor and case manager 
 As featured in local news media, one of Adam’s career highlights was his spearheading of a grant-funded children’s comfort room at Westmoreland County Court House. He has tirelessly striven to advocate for child welfare initiatives at Universities, School Districts, and National/Statewide Organizations, and was recently named as one of the twelve inaugural members of the University of Pittsburgh’s School of Social Work Direct Practice Advisory Board.
 
 In his personal life, Adam is a devoted father of one son and volunteers as a coach for youth soccer and baseball organizations. He was also a member of the Blackburn Center's male engagement initiative, seeking to end intimate partner violence.  
+
 In every facet of his life, Adam embodies his commitment to championing the advancement of the core goals of child welfare: safety, permanency, and well-being of children.

@@ -29,7 +29,9 @@ summary = "Join us on May 26, 2022 for the annual Knight of Distinguished Alumni
 description   = ""
 "news/categories" = ["Alumni","Events"]
 
-hasRecipients      = true
+hasRecipients     = true
+hasRecipientBios  = true
+
 recipientsHeading = "The 2022 Class of Distinguished Alumni"
 recipientsIntro   = "We are proud to announce that the following individuals have been selected for the 2022 Class of Distinguished Alumni."
 
