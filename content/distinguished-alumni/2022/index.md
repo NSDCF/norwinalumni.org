@@ -64,8 +64,8 @@ dinnerSelections = "Choices include *Three Cheese Stuffed Chicken Breast*, *Slic
 
 [[sections.questions]]
   title   = "Questions"
-  content = "Further questions regarding the event may be directed to <FIRST> <LAST> by [email](mailto:alumni@nsdcf.org) or by phone at <PHONE>."
-
+  content = "Please contact us at [email](mailto:alumni@nsdcf.org) with any additional questions you may have."
+  
 [[resources]]
   src  = "2022-alumni-hero.jpg"
   name = "cover"

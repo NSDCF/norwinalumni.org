@@ -2,3 +2,5 @@ github.com/nsdcf/nsdcf-shared-content v0.0.0-20240303214942-b91c89a1c99d h1:M9QG
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20240303214942-b91c89a1c99d/go.mod h1:2alhtrV6SDMBjOozgjy20zLgQ57No+6fRg4pdBM21Sg=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240123191111-0f216f3fcd2e h1:ayZMjp3pOBrYU1Xh4Nw+8G0T8fym5v+hNOU3wSFMxVo=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240123191111-0f216f3fcd2e/go.mod h1:zamWQ6ESoC6XVt6mv7DbBxw/kpz1o0GC8lbIWCVcbuQ=
+github.com/nsdcf/nsdcf-theme v0.0.0-20240312150459-45758700cefc h1:t22PwS29yPwqE0/FGhoPF5bWKtK/X3OW1+P+LLRpX3M=
+github.com/nsdcf/nsdcf-theme v0.0.0-20240312150459-45758700cefc/go.mod h1:mK7RlroT9SeyhDRvO7gL65M89Q4zpdxf1ryE3B44aeg=
