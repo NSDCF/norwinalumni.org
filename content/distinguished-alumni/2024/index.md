@@ -77,6 +77,7 @@ acceptingAds     = true
 
 [[resources]]
   src  = "advertise.md"
+  name = "advertise"
 +++
 
 {{% p class="intro_p" %}}
