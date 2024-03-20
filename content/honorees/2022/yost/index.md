@@ -1,7 +1,8 @@
 +++
 attending = true
-honorific = "Ms."
+honorific = "Dr."
 title     = "Terri Yost"
+academicTitle = "Ph.D., RN, FNP-BC"
 year      = "1988"
 award     = "Alumni"
 category  = "Education, Medicine, Military Service"

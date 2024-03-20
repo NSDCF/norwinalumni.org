@@ -2,10 +2,10 @@
 attending = true
 honorific = "Dr."
 title     = "Rebecca Gediminskas"
-degree    = "DNP"
+academicTitle = "DNP"
 year      = "1974"
 award     = "Alumni"
-category  = "Education, Meddicine, & Public Service"
+category  = "Education, Medicine, & Public Service"
 class     = 2019
 weight    = 15
 

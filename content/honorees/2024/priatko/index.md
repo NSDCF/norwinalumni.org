@@ -1,7 +1,8 @@
 +++
 attending = true
-honorific = "Lieutenant Colonel"
+honorific = "Lt. Col."
 title     = "David A. Priatko"
+serviceInfo   = "Ret."
 year      = "1984"
 award     = "Alumni"
 category  = "Military Service"

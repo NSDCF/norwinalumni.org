@@ -2,7 +2,7 @@
 attending     = true
 honorific     = "Dr."
 title         = "Daniel Medic"
-academicTitle = "M.D."
+academicTitle = "D.O."
 year          = "1971"
 award         = "Alumni"
 category      = "Medicine"

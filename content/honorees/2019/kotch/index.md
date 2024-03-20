@@ -1,7 +1,7 @@
 +++
 attending = true
 honorific = "Mr."
-title     = "Tim Kotch"
+title     = "Tim Kotch, Sr."
 year      = "1974"
 award     = "Alumni"
 category  = "Education"

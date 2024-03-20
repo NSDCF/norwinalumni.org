@@ -2,6 +2,7 @@
 attending = true
 honorific = "Dr."
 title     = "Victoria I. Holden"
+academicTitle = "Ph.D."
 year      = "2007"
 award     = "Alumni"
 category  = "Science"

@@ -2,7 +2,7 @@
 attending = true
 honorific = "Dr."
 title     = "David Turnshek"
-degree    = "Ph.D."
+academicTitle = "Ph.D."
 year      = "1973"
 award     = "Alumni"
 category  = "Science"

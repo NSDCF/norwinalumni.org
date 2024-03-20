@@ -1,6 +1,6 @@
 +++
 attending = true
-honorific = "Mr."
+honorific = "Cpt."
 title     = "Daniel A. Nama II"
 year      = "2013"
 award     = "Alumni"

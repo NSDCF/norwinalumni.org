@@ -1,8 +1,9 @@
 +++
 attending     = true
-honorific     = "Chief Petty Office"
+honorific     = "CPO"
 title         = "Nicolas D. Cheque"
-academicTitle = "SOC, US Navy"
+academicTitle = ""
+serviceInfo   = "SOC, USN"
 year          = "2002"
 award         = "Alumni"
 category      = "Military Service"

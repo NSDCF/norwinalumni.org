@@ -1,6 +1,6 @@
 +++
 attending = true
-honorific = "Ms."
+honorific = "Dr."
 title     = "Jennifer Plank-Bazinet"
 year      = "2002"
 award     = "Alumni"

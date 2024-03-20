@@ -2,7 +2,8 @@
 attending = true
 honorific = "Col."
 title     = "John D. Smith"
-degree    = "J.D."
+academicTitle = "J.D."
+serviceInfo  = "Ret."
 year      = "1987"
 award     = "Alumni"
 category  = "Law"
