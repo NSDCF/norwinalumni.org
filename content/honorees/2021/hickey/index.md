@@ -2,7 +2,6 @@
 attending = true
 honorific = "Mr."
 title     = "Ron Hickey"
-degree    = "DPM"
 year      = "1966"
 award     = "Alumni"
 category  = "Military & Public Service"

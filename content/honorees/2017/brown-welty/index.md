@@ -2,7 +2,7 @@
 attending = true
 honorific = "Dr."
 title     = "Sharon Brown-Welty"
-degree    = "Ph.D."
+academicTitle = "Ph.D."
 year      = "1969"
 award     = "Alumni"
 category  = "Education"

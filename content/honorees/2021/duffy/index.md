@@ -1,8 +1,8 @@
 +++
 attending = true
 honorific = "Mr."
-title     = "James Duffy, Esq."
-degree    = "Esq."
+title     = "James Duffy"
+academicTitle = "Esq."
 award     = "Friend"
 category  = ""
 class     = 2021

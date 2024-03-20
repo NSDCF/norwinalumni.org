@@ -2,6 +2,7 @@
 attending = true
 honorific = "Col."
 title     = "Kenneth C. Gongaware"
+serviceInfo = "US Army, Ret."
 year      = "1967"
 award     = "Alumni"
 category  = "Military Service"

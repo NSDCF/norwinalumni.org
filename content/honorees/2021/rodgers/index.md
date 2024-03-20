@@ -2,7 +2,7 @@
 attending = true
 honorific = "Ms."
 title     = "Laura A. Rodgers née Stamford"
-degree    = "DrAP CHSE CRNA"
+academicTitle = "DrAP CHSE CRNA"
 year      = "1981"
 award     = "Alumni"
 category  = "Medical"

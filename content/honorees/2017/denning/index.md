@@ -2,7 +2,6 @@
 attending = true
 honorific = "Ms."
 title     = "Dina D'Alessandro Denning"
-degree    = ""
 year      = "1979"
 award     = "Alumni"
 category  = "Philanthropy & Public Service"

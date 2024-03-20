@@ -2,7 +2,7 @@
 attending = false
 honorific = "Dr."
 title     = "Heather Newell"
-degree    = "Ed.D."
+academicTitle = "Ed.D."
 year      = "1988"
 award     = "Alumni"
 category  = "Education"

@@ -2,7 +2,7 @@
 attending = true
 honorific = "Dr."
 title     = "Constance DeMore"
-degree    = ""
+academicTitle = "Ph.D."
 year      = "1991"
 award     = "Alumni"
 category  = "Education"

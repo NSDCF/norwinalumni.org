@@ -1,8 +1,8 @@
 +++
 attending     = true
-honorific     = "Ms."
+honorific     = "Dr."
 title         = "Robin Sleigh Dillon"
-degree        = "Ph.D."
+academicTitle = "Ph.D."
 year          = "1973"
 previousClass = "2018"
 award         = "Alumni"

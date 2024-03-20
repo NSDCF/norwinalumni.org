@@ -1,16 +1,16 @@
 +++
-attending     = true
-honorific     = "Mr."
-title         = "Daniel Davis"
+attending = true
+honorific = "Dr."
+title     = "Robert 'Dan' Davis"
 academicTitle = "DPM"
-year          = "1972"
-previousClass = "2018"
-award         = "Alumni"
-category      = "Medicine"
-class         = 2022
+year      = "1972"
+award     = "Alumni"
+class     = 2021
+category  = "Medicine"
+weight    = 5
 
 [[resources]]
-  src  = "*.jpg"
+  src  = "davis.jpg"
   name = "headshot"
 +++
 
