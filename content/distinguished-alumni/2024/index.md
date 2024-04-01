@@ -19,13 +19,13 @@ eventDate     = "2024-05-23T17:30:00-05:00"
 eventDoorTime = "2024-05-23T17:30:00-05:00"
 eventEndDate  = "2024-05-23T21:00:00-05:00"
 
-ticketsAvailable = false
+ticketsAvailable = true
 # Remember to change ticket deadline date to appropriate deadline for RSVPs. After this date, the ticket order form will be disabled the next time the site is built.
 ticketsDeadlineDate = 2024-05-10T18:46:01-05:00
 
 class = 2024
 summaryHeading = ""
-summary = "Join us on May 23, 2024 for the annual Knight of Distinguished Alumni as we honor our latest class of distinguished alumni."
+summary = "Join us on May 23, 2024 for the Seventh Annual Knight of Distinguished Alumni as we honor our latest class of distinguished alumni."
 description   = ""
 "news/categories" = ["Alumni","Events"]
 hasRecipients     = true
@@ -36,13 +36,13 @@ recipientsIntro   = "We are proud to announce that the following individuals hav
 
 reservationsHeading = "Make your reservations today."
 reservationsIntro = "Make your reservations for A Knight of Distinction while seats are still available. Reservations are *$47.14* per person, including transaction fees, with group tables of 8-10 also available."
-reservationsMisc = "Prefer to pay by check? Print our <a href='knight-of-distinguished-alumni-reservation-form.pdf' class='link--pdf' target='_blank'>reservations form</a> and return by mail. <a href='knight-of-distinguished-alumni-advertisements.pdf' class='link--pdf' target='_blank'>Advertisements</a> are also available for our event program."
+reservationsMisc = "Prefer to pay by check? Print our <a href='knight-of-distinguished-alumni-reservation-form.pdf' class='link--pdf' target='_blank'>reservations form</a> and return by mail. <a href='2024-knight-distinguished-alumni-program-ads.pdf' class='link--pdf' target='_blank'>Advertisements</a> are also available for our event program."
 reservationsSmallPrint = "The deadline for reservations is May 10. Please note that we are unable to issue refunds after the deadline."
 
 acceptingAds     = true
 
 [banner]
-  active = false
+  active = true
   text = "Join us in celebrating our Seventh Annual Knight of Distinguished Alumni on May 25."
   linkText = "Make your reservation today."
 
@@ -64,7 +64,7 @@ acceptingAds     = true
   content = "After Dinner"
 
 [tickets]
-  price        = "47.14"
+  price        = "48.75"
   serviceFee   = "2.14"
 
 [[sections.questions]]
