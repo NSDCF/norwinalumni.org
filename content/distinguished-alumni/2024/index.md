@@ -19,7 +19,7 @@ eventDate     = "2024-05-23T17:30:00-05:00"
 eventDoorTime = "2024-05-23T17:30:00-05:00"
 eventEndDate  = "2024-05-23T21:00:00-05:00"
 
-ticketsAvailable = true
+ticketsAvailable = false
 # Remember to change ticket deadline date to appropriate deadline for RSVPs. After this date, the ticket order form will be disabled the next time the site is built.
 ticketsDeadlineDate = 2024-05-10T18:46:01-05:00
 
@@ -42,7 +42,7 @@ reservationsSmallPrint = "The deadline for reservations is May 10. Please note t
 acceptingAds     = true
 
 [banner]
-  active = true
+  active = false
   text = "Join us in celebrating our Seventh Annual Knight of Distinguished Alumni on May 25."
   linkText = "Make your reservation today."
 
@@ -72,7 +72,7 @@ acceptingAds     = true
   content = "Please contact us at [email](mailto:alumni@nsdcf.org) with any additional questions you may have."
 
 [[resources]]
-  src  = "alumni-hero.jpg"
+  src  = "2024-group-photo.jpg"
   name = "cover"
 
 [[resources]]
@@ -81,6 +81,7 @@ acceptingAds     = true
 +++
 
 {{% p class="intro_p" %}}
-You are cordially invited to join the Norwin Alumni & Friends Association on Thursday, May 23, 2024 for a celebration of Norwin's past, present, and future as we honor the achievements of some of our most distinguished alumni and graduating students.{{% /p %}}
+On May 24, 2024, members of the Norwin community and past graduates came together in celebration of the accomplishments of ten Distinguished Norwin Alumni, our two Friends of Norwin, and our two graduating NAFA Scholarship recipients.
+{{% /p %}}
 
-Reservations for the Seventh Annual Knight of Distinguished Alumni will be accepted beginning April 1, 2024.
+The Norwin Alumni & Friends Association, together with the Norwin School District Community Foundation would like to thank the community for their support and a wonderful evening, as well as [Duncan Financial Group](https://duncangrp.com) for sponsoring the event.
