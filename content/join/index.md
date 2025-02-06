@@ -8,7 +8,7 @@ formHeading = "Become a member today."
 
 [[membershipOptions]]
   name = "Lifetime Membership"
-  price = "50"
+  price = "100"
 
 [[membershipOptions]]
   name = "Annual Membership"
@@ -21,8 +21,4 @@ formHeading = "Become a member today."
 
 {{% p class="intro_p" %}}
 Don’t miss your chance to become a NAFA member and enjoy all of the benefits of membership as you help us connect past and present generations of Norwin alumni, students, and friends.
-{{% /p %}}
-
-{{% p class="intro_p" %}}
-Plus, from now until the end of the year, we're offering a 50% discount on all lifetime memberships. There's never been a better time to join!
 {{% /p %}}
