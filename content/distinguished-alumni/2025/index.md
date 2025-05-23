@@ -29,7 +29,7 @@ summary = "Join us on May 22, 2025 for the Eighth Annual Knight of Distinguished
 description   = ""
 "news/categories" = ["Alumni","Events"]
 hasRecipients     = true
-hasRecipientBios  = false
+hasRecipientBios  = true
 
 recipientsHeading = "The 2025 Class of Distinguished Alumni"
 recipientsIntro   = "We are proud to announce that the following individuals have been selected for the 2025 Class of Distinguished Alumni."
