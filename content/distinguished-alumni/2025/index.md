@@ -6,7 +6,7 @@ shortTitle    = "A Knight of Distinguished Alumni"
 date          = 2025-04-02T06:00:00-05:00
 organizer     = "Norwin Alumni & Friends Association"
 # Remember to adjust eventDate to reflect the appropriate date and time.
-eventComplete = false
+eventComplete = true
 # EventStatus Type - https://schema.org/EventStatusType
 # Valid states:
 # => EventCancelled
@@ -19,7 +19,7 @@ eventDate     = "2025-05-22T17:30:00-05:00"
 eventDoorTime = "2025-05-22T17:30:00-05:00"
 eventEndDate  = "2025-05-22T21:00:00-05:00"
 
-ticketsAvailable = true
+ticketsAvailable = false
 # Remember to change ticket deadline date to appropriate deadline for RSVPs. After this date, the ticket order form will be disabled the next time the site is built.
 ticketsDeadlineDate = 2025-05-10T18:46:01-05:00
 
@@ -42,7 +42,7 @@ reservationsSmallPrint = "The deadline for reservations is May 10. Please note t
 acceptingAds     = true
 
 [banner]
-  active = true
+  active = false
   text = "Join us in celebrating our Eighth Annual Knight of Distinguished Alumni on May 22."
   linkText = "Make your reservation today."
 
@@ -81,7 +81,7 @@ acceptingAds     = true
 +++
 
 {{% p class="intro_p" %}}
-You are cordially invited to join the Norwin Alumni & Friends Association on Thursday, May 22, 2025 for a celebration of Norwin's past, present, and future as we honor the achievements of some of our most distinguished alumni and graduating students.
+On May 22, 2025, members of the Norwin community and past graduates came together in celebration of the accomplishments of eleven Distinguished Norwin Alumni, one Friends of Norwin, and our two graduating NAFA Scholarship recipients.
 {{% /p %}}
 
-Reservations for the Seventh Annual Knight of Distinguished Alumni will be accepted beginning April 1, 2025.
+The Norwin Alumni & Friends Association, together with the Norwin School District Community Foundation would like to thank the community for their support and a wonderful evening, as well as [Duncan Financial Group](https://duncangrp.com) for sponsoring the event.
