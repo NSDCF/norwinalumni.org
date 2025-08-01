@@ -11,7 +11,7 @@ draft = false
   name = "featured"
   [resources.params]
     icon = 'pdf'
-    caption = "PHOTO: Irwin area, 1897. [Norwin Historical Society](http://norwinhistoricalsociety.org)/Jean Soyke Collection."
+    citation = "PHOTO: Irwin area, 1897. [Norwin Historical Society](http://norwinhistoricalsociety.org)/Jean Soyke Collection."
 +++
 *This is the first in a series of articles about the history of Norwin and its school system, written by Dr. Ronald B. Surmacz with original research by C.C. Pearsall.*
 <!--more-->

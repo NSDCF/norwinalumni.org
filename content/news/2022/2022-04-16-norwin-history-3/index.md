@@ -12,7 +12,6 @@ summary = "The first two-room school in North Huntingdon Township was built in L
  name = "featured"
  [params]
   alt = "A Street Scene, Irwin, Pennsylvania circa 1900"
-
 +++
 
 *This is the third in a series of articles about the history of Norwin and its school system, written by Dr. Ronald B. Surmacz with original research by C.C. Pearsall.*

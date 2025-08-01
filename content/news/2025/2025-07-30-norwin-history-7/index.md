@@ -11,7 +11,7 @@ draft = false
   name = "featured"
   [resources.params]
     icon = 'pdf'
-    caption = "PHOTO: Irwin High School on 6th Street in Irwin, Pennslyvania (since demolished). [Norwin Historical Society](http://norwinhistoricalsociety.org)/Jean Soyke Collection."
+    citation = "PHOTO: Irwin High School on 6th Street in Irwin, Pennslyvania (since demolished). [Norwin Historical Society](http://norwinhistoricalsociety.org)/Jean Soyke Collection."
 +++
 
 In 1916, with the opening of Norwin High School, the Irwin school, located on Sixth Street, became used as a grade school until January 22, 1931 when the building was completely destroyed by a fire of unknown origin. Nothing was saved from the building, including all student records, supplies and the personal belongings of pupils and teachers. Within a week, the pupils returned for classes at various locations: second and third grades in the Moses Temple; all other grades in the new Methodist Church on Oak Street. 
