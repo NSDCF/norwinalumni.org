@@ -1,7 +1,7 @@
 +++
 attending = true
 honorific = "Ms."
-title     = "Carla Capozzi née Riccelli"
+title     = "Carla Capozzi (Riccelli)"
 year      = "1979"
 academicTitle = "DMD"
 award     = "Alumni"
