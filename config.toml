@@ -6,7 +6,7 @@ canonifyURLs    = false
 relativeURLs        = false
 enableRobotsTXT     = true
 googleAnalytics     = ""
-languageCode        = "en-us"
+locale              = "en-us"
 metaDataFormat      = "toml"
 summaryLength       = 50
 pluralizeListTitles = false
@@ -73,8 +73,16 @@ pagerSize = 9
 
 [imaging]
   anchor         = "smart"
-  quality        = 70
   resampleFilter = "CatmullRom"
+
+  [imaging.jpeg]
+    quality = 70
+
+  [imaging.webp]
+    quality = 70
+
+  [imaging.avif]
+    quality = 70
 
   [imaging.exif]
     disableLatLong = true
