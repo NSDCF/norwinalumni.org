@@ -42,7 +42,7 @@ reservationsSmallPrint = "The deadline for reservations is May 10. Please note t
 acceptingAds     = true
 
 [banner]
-  active = true
+  active = false
   text = "Join us in celebrating our Ninth Annual Knight of Distinguished Alumni on May 21."
   linkText = "Make your reservation today."
 
