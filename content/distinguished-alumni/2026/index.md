@@ -6,7 +6,7 @@ shortTitle    = "A Knight of Distinguished Alumni"
 date          = 2026-04-01T12:00:00-05:00
 organizer     = "Norwin Alumni & Friends Association"
 # Remember to adjust eventDate to reflect the appropriate date and time.
-eventComplete = false
+eventComplete = true
 # EventStatus Type - https://schema.org/EventStatusType
 # Valid states:
 # => EventCancelled
