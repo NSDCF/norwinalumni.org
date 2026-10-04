@@ -8,7 +8,7 @@ formHeading = "Become a member today."
 
 [[membershipOptions]]
   name = "Lifetime Membership"
-  price = "100"
+  price = "50"
 
 [[membershipOptions]]
   name = "Annual Membership"
