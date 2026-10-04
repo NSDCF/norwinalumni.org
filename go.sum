@@ -1,6 +1,12 @@
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20261004211544-c8ba65469c9f h1:2ytObuwIKlRo6shV5S+9Lo64MgEK3w0di61DLZQ2In4=
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20261004211544-c8ba65469c9f/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20261004235125-7c4e0a513eaf h1:xLG/vkcTFU8SxAUmDuSXb+0o1SMRMTfT3Lc6//rMfoc=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20261004235125-7c4e0a513eaf/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20261006002919-31a1c7874684 h1:SCCdVjXCw9lJYxs+7E2Q0SEEdTMKXK0/gtHxw5SPtOU=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20261006002919-31a1c7874684/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
 github.com/nsdcf/nsdcf-theme v0.0.0-20260930141715-35db3e214dfe h1:NRMJGh7Ym+xDqqRepUiNMoOfFA2357Q4xNIsfQNpERg=
 github.com/nsdcf/nsdcf-theme v0.0.0-20260930141715-35db3e214dfe/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
 github.com/nsdcf/nsdcf-theme v0.0.0-20261004215440-c3607e169aa0 h1:ljcTArWCFFl/PP7E9w0lqQ03kcBxe0vTza0HIP3dyCE=
 github.com/nsdcf/nsdcf-theme v0.0.0-20261004215440-c3607e169aa0/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
+github.com/nsdcf/nsdcf-theme v0.0.0-20261004234926-bd93788b10b7 h1:U8p2IFA1nyT4CUfdy4jvBpEtxIiu9pUYSd+cBVZ/RUA=
+github.com/nsdcf/nsdcf-theme v0.0.0-20261004234926-bd93788b10b7/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
